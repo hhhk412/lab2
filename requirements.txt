@@ -1,2 +1,2 @@
-Rython
+Python
 Используются только стандартные библиотеки (tkinter, random)
