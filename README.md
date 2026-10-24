@@ -74,4 +74,3 @@ lab2/
 ## Демонстрация работы
 
 <img width="1568" height="1436" alt="Снимок экрана 2026-10-24 203013" src="https://github.com/user-attachments/assets/06d181a8-442b-4ad1-9fa9-c75109e139f6" />
-
