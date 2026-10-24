@@ -73,7 +73,7 @@ def draw_step():
     canvas.create_text(
         15, 40,
         anchor="nw",
-        text="Пробел — Пауза/Старт | R — Перезапуск",
+        text="Пробел — Пауза/Старт | R — Перезапуск   :)",
         fill="gray",
         font=("Arial", 10),
         tags="info_text"
