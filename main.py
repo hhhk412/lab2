@@ -1,6 +1,6 @@
 import tkinter as tk
-import config
-from fractal import get_next_point
+import settings.config as config
+from core.fractal import get_next_point
 
 # Инициализация окна
 root = tk.Tk()
